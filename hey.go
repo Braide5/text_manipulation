@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func hey() {
 	var name string 
 	fmt.Println("please enter your name")
 	fmt.Scanln(&name)

@@ -5,7 +5,7 @@ import (
     "math"
 )
 
-func main() {
+func main(){
 
     var a, b, c, root1, root2, imaginary, discriminant float64
 

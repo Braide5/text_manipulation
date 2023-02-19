@@ -9,5 +9,5 @@ func main() {
 	fmt.Scanln(&name)
 	fmt.Println("please enter your year of birth")
 	fmt.Scanln(&year)
-	fmt.Println(name, "is", 2023-year, "old")
+	fmt.Println(name, "is", 2023-year, "year old")
 }

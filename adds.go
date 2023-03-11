@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+//func main() {
 	var name string 
 	var year int 
 	fmt.Println("please enter your name")
